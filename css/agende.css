@@ -1,0 +1,13 @@
+.lista__botao {
+    background-color: #118c7e;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.lista__link {
+    color: white;
+}
+
+.lista__link:visited {
+    color: white;
+}
